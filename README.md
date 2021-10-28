@@ -1,3 +1,3 @@
 # CurrencyConverterApp
 
-This app converts indian rupees to us dollars by taking input from the use in inr and giving the result in the form of App Pop-Up
+This app converts Indian Rupees to USA Dollars by taking input from the user in INR and output the result in the form of Pop-Up!
